@@ -6,7 +6,7 @@ Powerful Software
 
 ### Welcome to the repository
 
-Feel free to access [my portfolio](http://portfolio.jewel.com)
+Feel free to access [my portfolio](http://www.jewelonline.galorehost.com/wp)
 
 > ## Etiam pulvinar sollicitudin gravida
 >
