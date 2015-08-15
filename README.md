@@ -26,4 +26,4 @@ Donec ac urna suscipit, luctus sem id, pretium **arcu**
 2. Precision
 3. Performance
 
-This is what ruby code would look like puts 'Hello World'
+This is what ruby code would look like 'puts 'Hello World''
